@@ -25,4 +25,4 @@ Liste, tablo formunda gelmelidir.
 Listede firmadı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir. (Pasif ilan)
 
-![HrmsUML pdf](https://user-images.githubusercontent.com/84589118/167224340-c73d143c-b831-4893-a457-95ceb72574e6.jpg)
+
